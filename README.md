@@ -62,9 +62,9 @@ The project will focus on "Component separation in X-ray astrophysics", the nece
 
 ----
 ### **References :**
-####*Books :*
+###*Books :*
 
-####*Articles :*
+###*Articles :*
 **Sparse representations**
 
 **Optimisation**
