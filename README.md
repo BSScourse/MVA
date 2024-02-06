@@ -44,15 +44,12 @@ Most of them can be set up with easily using standard porting tools (apt-get, ma
 
 The practical will be organized as follows (**the slides are available in the "practical_work" folder**):
 
-PW #1 :Unsupervised source separation, from ICA to GMCA
+PW #1 :Unsupervised source separation, from ICA to GMCA **Expected on friday, 16th of february**
 
-Report expected for **TBD** – necessary material:
 PW #2 : Optimisation and proximal algorithms for source separation
 
-Report expected for TBD – necessary material:
 PW #3 : Non-negative source separation
 
-Report expected for TBD – necessary material:
 
 ----
 ### **Project :**
